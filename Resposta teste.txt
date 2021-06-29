@@ -3,5 +3,5 @@ IsPoliticallyExposed was created in the ITrade interface. A trade shall be categ
 IsPoliticallyExposed is true. Describe in at most 1 paragraph what you must do in your design to account for this
 new category
 
-R. Adicionar o novo parametro(PEP) no Enum(EnumRetCategorias) e alterar avalidação do if que categoriza os itens, validando se a propriedade 
-IsPoliticallyExposed esta como true se sim pegar o valor do Enum(PEP) de acordo ou pegar o valor do Enum correspondente. 
+R. Adicionar o novo parametro(PEP) no Enum(EnumRetCategorias) e alterar a validação do if que categoriza os itens, validando se a propriedade 
+IsPoliticallyExposed esta como true se sim pegar o valor do Enum(PEP) de acordo ou se não pegar o valor do Enum correspondente. 
