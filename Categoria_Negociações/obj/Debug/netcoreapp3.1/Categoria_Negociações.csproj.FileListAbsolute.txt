@@ -1,0 +1,13 @@
+C:\Users\chris\source\repos\Categoria_Negociações\Categoria_Negociações\bin\Debug\netcoreapp3.1\Categoria_Negociações.exe
+C:\Users\chris\source\repos\Categoria_Negociações\Categoria_Negociações\bin\Debug\netcoreapp3.1\Categoria_Negociações.deps.json
+C:\Users\chris\source\repos\Categoria_Negociações\Categoria_Negociações\bin\Debug\netcoreapp3.1\Categoria_Negociações.runtimeconfig.json
+C:\Users\chris\source\repos\Categoria_Negociações\Categoria_Negociações\bin\Debug\netcoreapp3.1\Categoria_Negociações.runtimeconfig.dev.json
+C:\Users\chris\source\repos\Categoria_Negociações\Categoria_Negociações\bin\Debug\netcoreapp3.1\Categoria_Negociações.dll
+C:\Users\chris\source\repos\Categoria_Negociações\Categoria_Negociações\bin\Debug\netcoreapp3.1\Categoria_Negociações.pdb
+C:\Users\chris\source\repos\Categoria_Negociações\Categoria_Negociações\obj\Debug\netcoreapp3.1\Categoria_Negociações.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\Categoria_Negociações\Categoria_Negociações\obj\Debug\netcoreapp3.1\Categoria_Negociações.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\Categoria_Negociações\Categoria_Negociações\obj\Debug\netcoreapp3.1\Categoria_Negociações.AssemblyInfo.cs
+C:\Users\chris\source\repos\Categoria_Negociações\Categoria_Negociações\obj\Debug\netcoreapp3.1\Categoria_Negociações.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Categoria_Negociações\Categoria_Negociações\obj\Debug\netcoreapp3.1\Categoria_Negociações.dll
+C:\Users\chris\source\repos\Categoria_Negociações\Categoria_Negociações\obj\Debug\netcoreapp3.1\Categoria_Negociações.pdb
+C:\Users\chris\source\repos\Categoria_Negociações\Categoria_Negociações\obj\Debug\netcoreapp3.1\Categoria_Negociações.genruntimeconfig.cache
